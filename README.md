@@ -25,7 +25,7 @@ This is ETEM, a compiler bug isolation method proposed in the paper "Compiler Bu
 ## Run ETEM
 
 ```shell
-https://github.com/cabbageAnonymous/ase24_anonymous.git  # Clone this repository
+git clone https://github.com/cabbageAnonymous/ase24_anonymous.git  # Clone this repository
 cd run
 sudo python ./[gcc/llvm]-setup.py # Setup folder and basic bug info
 sudo python ./[gcc/llvm]-run.py # Run ETEM
